@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Weather",
+    "description": "Get weather forecast",
+    "image": "/projectImages/bike.png",
+    "image2": "/projectImages/cyclingfamily.jpeg",
+    "image3": "/projectImages/routes3.png",
+    "body": "This mobile web application leverages the OpenWeatherMap API to deliver real-time weather data for any location. Users can view current conditions including temperature, humidity, and wind speed, as well as a 5-day forecast.\nThe interface automatically adapts between light and dark modes based on the time of day at the given location. Recent searches are stored to enable quick access to frequently checked cities. Geolocation functionality determines the user's position for quick access to local weather.\nBy combining a modern, responsive design with robust weather data pulled from OpenWeatherMap's API, this application aims to provide an intuitive experience for staying up-to-date on the latest weather conditions. The project demonstrates proficiency in integrating third-party APIs, building adaptive interfaces, and crafting performant mobile web applications",
+    "technologies": ["React", "OpenWeatherMap", "Bootstrap", "HTML", "CSS"],
+    "github": "https://github.com/maqiie/weather-app",
+    "deployed": "https://markpaul-weatherapp.netlify.app/",
+    "bgcolor": "var(--hl2-color)",
+    "id": "1"
+  },
+  {
+    "title": "Blog",
+    "description": "Blog $ Articles",
+    "image": "/projectImages/weather.png",
+    "image2": "/projectImages/storm.jpeg",
+    "image3": "/projectImages/weather3.png",
+    "technologies": ["JavaScript", "Ruby", "Postgress", "CSS"],
+    "body": "Welcome to iBlog, your premier destination for creative expression and insightful discussions. With a sleek React frontend and robust user authentication system, iBlog offers an immersive blogging experience tailored to your preferences. Seamlessly navigate through engaging content, share your thoughts, and connect with like-minded individuals. Powered by a PostgreSQL database, iBlog ensures secure data management and smooth performance, allowing you to focus on what truly matters: crafting compelling posts and engaging with your audience. Join the iBlog community today and embark on a journey of inspiration and discovery..",
+    "github": "https://github.com/maqiie/Blog-client",
+    "deployed": "https://ibl0g.vercel.app/",
+    "bgcolor": "var(--hl-color)",
+    "id": "2"
+  },
+  { 
+    "title": "E-commerce",
+    "description": "Clothing Shop",
+    "image": "/projectImages/team.png",
+    "image2": "/projectImages/teamcelebrating.jpeg",
+    "image3": "/projectImages/team3.png",
+    "technologies": ["JavaScript", "Ruby", "Postgress", "Testing"],
+    "body": "Skyva is an intuitive online clothing store designed to elevate your shopping experience. Built on the powerful combination of React for frontend interactivity and Ruby on Rails for robust backend functionality, Skyva offers users a seamless journey from browsing to checkout. With its sleek design and user-friendly interface, customers can effortlessly scroll through our curated collection, add items to their cart, and securely complete their purchase. Behind the scenes, our PostgreSQL database ensures smooth data management and efficient order processing. Experience the future of online shopping with Skyva, where style meets convenience.",
+    "github": "https://github.com/maqiie/skyva-front",
+    "deployed": "https://skyva-front.vercel.app/",
+    "bgcolor": "#6c4bf4",
+    "id": "3"
+  },
+  {
+    "title": "Moringa Pair",
+    "description": "Test your knowledge",
+    "image": "/projectImages/quiz.png",
+    "image2": "/projectImages/javascript.jpeg",
+    "image3": "/projectImages/quiz3.png",
+    "technologies": ["JavaScript", "HTML", "CSS"],
+    "body": "Introducing MoringaPair, the revolutionary application designed to streamline classroom organization and foster dynamic student interactions! With MoringaPair, teachers can effortlessly pair students for group activities, discussions, or projects, all while harnessing the power of Ruby on Rails and PostgreSQL for a seamless backend experience. At its core, MoringaPair utilizes Ruby on Rails to provide educators with a user-friendly interface, allowing them to input class rosters and customize pairing parameters with ease. Teachers can specify criteria such as diversity, academic strengths, or even random pairing to ensure optimal collaboration among students. Leveraging the robust capabilities of PostgreSQL, MoringaPair efficiently stores and manages student data, providing quick access to pairings and historical pair records.But MoringaPair doesn't stop there. Its sleek and intuitive frontend interface takes the user experience to the next level. With a modern design and responsive layout, teachers can navigate effortlessly through the application, spending less time on administrative tasks and more time engaging with their students.Imagine the possibilities! Whether it's breaking the ice on the first day of class or facilitating peer-to-peer learning throughout the semester, MoringaPair empowers educators to create meaningful connections among students. With its seamless integration of Ruby on Rails and PostgreSQL, coupled with a stunning frontend design, MoringaPair is poised to revolutionize classroom dynamics and inspire collaborative learning like never before. Say goodbye to manual pairing and hello to the future of education with MoringaPair.",
+    "github": "https://github.com/mdyeates/coding-quiz",
+    "deployed": "https://moringa-pair.vercel.app/",
+    "bgcolor": "#f85781",
+    "id": "4"
+  },
+  
+  {
+    "title": " F1   News",
+    "description": "F1 Hub",
+    "image": "/projectImages/P1.png",
+    "image2": "/projectImages/f1.jpeg",
+    "image3": "/projectImages/p13.png",
+    "body": "P1 is a web application designed to be a hub for Formula 1 fans. It brings together news, standings, and an interactive card game in one platform.\nThe app features a responsive layout with animated, polished visuals to provide an immersive user experience. The news section stays up-to-date on the latest happenings in the F1 world.\nThe centerpiece is a card game that puts users' F1 knowledge to the test in a competitive, engaging format. Game mechanics reward expertise in drivers, teams, and racing trivia.\nBuilt using modern web development tools, this project shows skills in:\n➤ Creating visually appealing, animated interfaces\n➤ Integrating real-time data feeds and news\n➤ Developing interactive game mechanics with competitive elements\n➤ Providing an all-in-one web app for a niche audience\nOverall, P1 aims to establish an exciting online space for Formula 1 fans to follow the sport, connect with a community, and test their expert knowledge.",
+    "technologies": ["React", "Framer Motion", "Bootstrap", "HTML", "CSS"],
+    "github": "https://github.com/Jake-W95/P1",
+    "deployed": "https://p1-heroes.netlify.app/",
+    "bgcolor": "#e47911",
+    "id": "5"
+  },
+
+  {
+    "title": "Bakery site",
+    "description": "Conquer your day",
+    "image": "/projectImages/planner.png",
+    "image2": "/projectImages/workplanner.jpeg",
+    "image3": "/projectImages/planner3.png",
+    "technologies": ["JavaScript", "Moment", "Bootstrap", "HTML", "CSS"],
+    "body": "Indulge your senses and elevate your mood with InJoy Treats, where flavor meets delight in every delectable creation. Our frontend website, powered by the dynamic duo of React and Tailwind CSS, invites you to embark on a culinary journey like no other.Discover a symphony of tastes and textures as you browse through our irresistible array of pastries, cakes, and cookies. From flaky croissants to decadent chocolate cakes to melt-in-your-mouth cookies, each treat is a masterpiece crafted with love and attention to detail. Designed with React, our website offers a seamless and intuitive interface that ensures a delightful browsing experience from start to finish. Tailwind CSS adds a touch of elegance and sophistication, with sleek designs and responsive layouts that adapt beautifully to any device. Whether you're treating yourself to a moment of indulgence or celebrating a special occasion with loved ones, InJoy Treats is here to make every experience memorable. With just a few clicks, you can place your order and await the arrival of happiness at your doorstep.Join us at InJoy Treats and savor the joy of every bite. From the first glimpse to the last crumb, let our frontend website redefine your sweet moments with flavors that linger long after the last taste.",
+    "github": "https://github.com/intreats",
+    "deployed": "https://intreats.vercel.app/",
+    "bgcolor": "#3e67ff",
+    "id": "6"
+  }
+]
