@@ -102,16 +102,6 @@ const Footer = () => {
       .catch((e) => console.error(e));
   }, []);
 
-  // Variants for button animation - removed motion import and motion variant
-  const buttonVariants = {
-    hover: {
-      scale: 1.05,
-    },
-    tap: {
-      scale: 1,
-    },
-  };
-
   return (
     <footer>
       {/* Social icons */}
